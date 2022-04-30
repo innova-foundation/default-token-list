@@ -24,11 +24,12 @@
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   },
   {
-    "name": "SushiToken",
-    "address": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F",
-    "symbol": "SUSHI",
+    "name": "InnovaiToken",
+    "address": "0x817b0ea2E3A2D13023Beeee3aA91Ab5cA30bfdE3",
+    "symbol": "INNAI",
     "decimals": 18,
-    "chainId": 42
+    "chainId": 42,
+    "logoURI": "https://github.com/innova-foundation/icons/tree/master/token/innai.jpg"
   },
   {
     "chainId": 42,
