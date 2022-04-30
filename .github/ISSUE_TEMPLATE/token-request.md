@@ -19,7 +19,7 @@ Token Decimals (from contract):
 Token Symbol (from contract):
 SushiSwap V2 Pair Address of Token:
 
-Link to sushiswap/assets PR:
+Link to innoswap/assets PR:
 Link to the official homepage of token:
 Link to CoinMarketCap or CoinGecko page of token:
 Link to official Twitter account:

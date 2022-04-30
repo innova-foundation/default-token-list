@@ -5,7 +5,7 @@
     "symbol": "WPALM",
     "decimals": 18,
     "chainId": 11297108109,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/palm.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/palm.jpg"
   },
   {
     "name": "Wrapped Ether",
@@ -13,7 +13,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 11297108109,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/eth.jpg"
   },
   {
 		"name": "Dai Stablecoin",
@@ -21,7 +21,7 @@
 		"symbol": "DAI",
 		"decimals": 18,
 		"chainId": 11297108109,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+		"logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/dai.jpg"
 	},
   {
 		"name": "Portion",
@@ -29,7 +29,7 @@
 		"symbol": "PRT",
 		"decimals": 18,
 		"chainId": 11297108109,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/unknown.jpg"
+		"logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/unknown.jpg"
 	}
 ]
 

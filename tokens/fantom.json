@@ -5,7 +5,7 @@
     "symbol": "WFTM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/ftm.jpg"
   },
   {
     "name": "Staked FTM",
@@ -13,7 +13,7 @@
     "symbol": "sFTM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sftm.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/sftm.jpg"
   },
   {
     "name": "fWTI Oil",
@@ -21,7 +21,7 @@
     "symbol": "fWTIOIL",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fwtioil.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fwtioil.jpg"
   },
   {
     "name": "Fantom USD",
@@ -29,7 +29,7 @@
     "symbol": "fUSD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fusd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fusd.jpg"
   },
   {
     "name": "fSilver",
@@ -37,7 +37,7 @@
     "symbol": "fSILVER",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fsilver.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fsilver.jpg"
   },
   {
     "name": "fLINK",
@@ -45,7 +45,7 @@
     "symbol": "fLINK",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/flink.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/flink.jpg"
   },
   {
     "name": "fKRW",
@@ -53,7 +53,7 @@
     "symbol": "fKRW",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fkrw.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fkrw.jpg"
   },
   {
     "name": "fJPY",
@@ -61,7 +61,7 @@
     "symbol": "fJPY",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fjpy.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fjpy.jpg"
   },
   {
     "name": "fGold",
@@ -69,7 +69,7 @@
     "symbol": "fGOLD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fgold.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fgold.jpg"
   },
   {
     "name": "fGBP",
@@ -77,7 +77,7 @@
     "symbol": "fGBP",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fgbp.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fgbp.jpg"
   },
   {
     "name": "fEUR",
@@ -85,7 +85,7 @@
     "symbol": "fEUR",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/feur.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/feur.jpg"
   },
   {
     "name": "fETH",
@@ -93,7 +93,7 @@
     "symbol": "fETH",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/eth.jpg"
   },
   {
     "name": "fCNY",
@@ -101,7 +101,7 @@
     "symbol": "fCNY",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fcny.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fcny.jpg"
   },
   {
     "name": "fCHF",
@@ -109,7 +109,7 @@
     "symbol": "fCHF",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fchf.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fchf.jpg"
   },
   {
     "name": "fBTC",
@@ -117,7 +117,7 @@
     "symbol": "fBTC",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/btc.jpg"
   },
   {
     "name": "fBNB",
@@ -125,7 +125,7 @@
     "symbol": "fBNB",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/bnb.jpg"
   },
   {
     "name": "fBAND",
@@ -133,7 +133,7 @@
     "symbol": "fBAND",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/band.jpg"
   },
   {
     "name": "ChainLink",
@@ -141,7 +141,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/link.jpg"
   },
   {
     "name": "USD Coin",
@@ -149,7 +149,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/usdc.jpg"
   },
   {
     "name": "Wrapped Bitcoin",
@@ -157,7 +157,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wbtc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/wbtc.jpg"
   },
   {
     "name": "Aave",
@@ -165,7 +165,7 @@
     "symbol": "AAVE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/aave.jpg"
   },
   {
     "name": "Dai Stablecoin",
@@ -173,7 +173,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/dai.jpg"
   },
   {
     "name": "Sushi",
@@ -181,7 +181,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/sushi.jpg"
   },
   {
     "name": "yearn.finance",
@@ -189,7 +189,7 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/yfi.jpg"
   },
   {
     "name": "Curve DAO",
@@ -197,7 +197,7 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/crv.jpg"
   },
   {
     "name": "Band",
@@ -205,7 +205,7 @@
     "symbol": "BAND",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/band.jpg"
   },
   {
     "name": "Spice",
@@ -213,7 +213,7 @@
     "symbol": "SFI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sfi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/sfi.jpg"
   },
   {
     "name": "Hegic",
@@ -221,7 +221,7 @@
     "symbol": "HEGIC",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/hegic.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/hegic.jpg"
   },
   {
     "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
@@ -229,7 +229,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/frax.jpg"
   },
   {
     "address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a",
@@ -237,7 +237,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/fxs.jpg"
   },
   {
     "name": "Cover",
@@ -245,7 +245,7 @@
     "symbol": "COVER",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cover.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/cover.jpg"
   },
   {
     "name": "Keep3r",
@@ -253,7 +253,7 @@
     "symbol": "KP3R",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kp3r.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/kp3r.jpg"
   },
   {
     "name": "Wrapped Ether",
@@ -261,7 +261,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/eth.jpg"
   },
   {
     "name": "Cream",
@@ -269,7 +269,7 @@
     "symbol": "CREAM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cream.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/cream.jpg"
   },
   {
     "name": "Synth sUSD",
@@ -277,7 +277,7 @@
     "symbol": "sUSD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/susd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/susd.jpg"
   },
   {
     "name": "Synthetix Network",
@@ -285,7 +285,7 @@
     "symbol": "SNX",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/snx.jpg"
   },
   {
     "name": "IceToken",
@@ -293,7 +293,7 @@
     "symbol": "ICE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/fantom/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
   },
 
   {
@@ -302,7 +302,7 @@
     "symbol": "nICE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443.png"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/fantom/0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443.png"
   },
 
   {
@@ -311,7 +311,7 @@
     "symbol": "fUSDT",
     "decimals": 6,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/usdt.jpg"
   },
   {
     "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
@@ -319,7 +319,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x82f0B8B456c1A451378467398982d4834b6829c1.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/fantom/0x82f0B8B456c1A451378467398982d4834b6829c1.jpg"
   },
   {
     "address": "0x468003B688943977e6130F4F68F23aad939a1040",
@@ -327,7 +327,7 @@
     "name": "Spell",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x468003B688943977e6130F4F68F23aad939a1040.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/fantom/0x468003B688943977e6130F4F68F23aad939a1040.jpg"
   },
   {
     "address": "0xbB29D2A58d880Af8AA5859e30470134dEAf84F2B",
@@ -335,7 +335,7 @@
     "name": "Staked Spell",
     "symbol": "sSPELL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xbB29D2A58d880Af8AA5859e30470134dEAf84F2B.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/fantom/0xbB29D2A58d880Af8AA5859e30470134dEAf84F2B.jpg"
   },
   {
     "address": "0x5A33869045db8A6a16c9f351293501CFD92cf7ed",
@@ -343,7 +343,7 @@
     "name": "Betswap.gg",
     "symbol": "BSGG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
   },
   {
     "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
@@ -351,7 +351,7 @@
     "name": "Hundred Finance",
     "symbol": "HND",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/assets/master/blockchains/fantom/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
   },
   {
     "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
@@ -359,7 +359,7 @@
     "name": "Cerby Token",
     "symbol": "CERBY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/assets/master/blockchains/fantom/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
   },
   {
     "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
@@ -367,7 +367,7 @@
     "name": "Lucidao Token",
     "symbol": "LCD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/fantom/0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a.jpg"
   },
   {
     "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
@@ -375,7 +375,7 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x6694340fc020c5E6B96567843da2df01b2CE1eb6.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/logos/main/network/arbitrum/0x6694340fc020c5E6B96567843da2df01b2CE1eb6.jpg"
   },
   {
     "address": "0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8",
@@ -383,6 +383,6 @@
     "name": "Pooch",
     "symbol": "POOCH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/assets/master/blockchains/fantom/assets/0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8/logo.png"
   }
 ]

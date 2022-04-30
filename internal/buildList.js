@@ -41,8 +41,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
-    keywords: ["sushiswap", "default"],
+      "https://raw.githubusercontent.com/innova-foundation/art/master/sushi/logo-256x256.png",
+    keywords: ["innoswap", "default"],
     tokens: [
       ...mainnet,
       ...ropsten,

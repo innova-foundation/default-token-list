@@ -373,7 +373,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 128,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/icons/master/token/sushi.jpg"
   },
   {
     "chainId": 128,
@@ -381,6 +381,6 @@
     "name": "WOWSwap",
     "symbol": "WOW",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/innova-foundation/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
   }
 ]
